@@ -1,0 +1,13 @@
+/home/ozan/Desktop/design-patterns/Command/bin/Debug/netcoreapp3.1/Command
+/home/ozan/Desktop/design-patterns/Command/bin/Debug/netcoreapp3.1/Command.deps.json
+/home/ozan/Desktop/design-patterns/Command/bin/Debug/netcoreapp3.1/Command.runtimeconfig.json
+/home/ozan/Desktop/design-patterns/Command/bin/Debug/netcoreapp3.1/Command.runtimeconfig.dev.json
+/home/ozan/Desktop/design-patterns/Command/bin/Debug/netcoreapp3.1/Command.dll
+/home/ozan/Desktop/design-patterns/Command/bin/Debug/netcoreapp3.1/Command.pdb
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.csprojAssemblyReference.cache
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.csproj.CoreCompileInputs.cache
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.AssemblyInfoInputs.cache
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.AssemblyInfo.cs
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.dll
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.pdb
+/home/ozan/Desktop/design-patterns/Command/obj/Debug/netcoreapp3.1/Command.genruntimeconfig.cache
